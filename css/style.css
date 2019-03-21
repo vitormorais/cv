@@ -178,13 +178,28 @@ address span{
   display: inline-block;
 }
 h3.clr1{
-	background:#6ecadc;
+  background:#6ecadc;
 }
 h3.clr2{
-	background:#e9a820;
+  background:#e9a820;
 }
 h3.clr3{
-	background:#3eb991;
+  background:#3eb991;
+}
+h3.clr4{
+  background:#CC5A48;
+}
+h3.clr5{
+  background:#2F4370;
+}
+h3.clr6{
+  background:#d293d2;
+}
+h3.clr7{
+  background:#009900;
+}
+h3.clr8{
+  background:#ff9933;
 }
 .copywrite{
 	padding-left:2em;
